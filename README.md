@@ -2,7 +2,7 @@
 
 #### Artist Statement
 
-  “Iris Virus” is a stop-motion animation created by Angelina Wang. 
+   “Iris Virus” is a stop-motion animation created by Angelina Wang. 
 
 
 
@@ -18,29 +18,37 @@
 
 #### VIDEO EDIT
 
-  Adobe Premiere
+      Adobe Premiere
 
-  Adobe Aftereffects
+      Adobe Aftereffects
 
 
 
 #### MUSIC/SONGS
 
-  “K O’CLOCK”
-Written by Zimo Ren
-Performed by ONER Kwin/ ONER Katto
+    “K O’CLOCK”
+    Written by Zimo Ren
+    Performed by ONER Kwin/ ONER Katto
 
-“TIME”
-Performed by BCD Studio
 
-“SONATA MT.KATHADIN, OP.405:II.LULLABY”
-Performed by Nicola Giosmin
 
-“ABYSS”
-Performed by mafmadmaf
+    “TIME”
+    Performed by BCD Studio
 
-“THE RAIN”
-Performed by Vsun
+
+
+    “SONATA MT.KATHADIN, OP.405:II.LULLABY”
+    Performed by Nicola Giosmin
+
+
+
+    “ABYSS”
+    Performed by mafmadmaf
+
+
+
+    “THE RAIN”
+    Performed by Vsun
 
 
 
@@ -49,6 +57,6 @@ Performed by Vsun
 
 ##### SPECIAL THANKS
 
-Burke Jam
+    Burke Jam
 
 
