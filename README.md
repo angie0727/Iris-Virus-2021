@@ -1,5 +1,7 @@
 # Iris-Virus-2021
 
+#### LINK OF FILM
+
 
 #### ARTIST BIO
 
@@ -10,7 +12,7 @@ Angelina Wang is an artist working in visual and interactive art. Her work takes
 
 #### ARTIST STATEMENT
 
-“Iris Virus” is a stop-motion animation based on a fiction story. The story is about an Iris becames conscious and was jealous of a girl's identity of being a human. Iris then successfully invaded in the girl's body by releasing 'Iris Virus'. But no matter what kind of body she is in, she is just an Iris.  At the end of the story, as Iris’s body withered, the girl's body also began to rapidly age and eventually, Iris turned into a wisp of smoke and dissipated.
+“Iris Virus” is a stop-motion animated mini-film based on a fiction story. The story is about an Iris becames conscious and was jealous of a girl's identity of being a human. Iris then successfully invaded in the girl's body by releasing 'Iris Virus'. But no matter what kind of body she is in, she is just an Iris.  At the end of the story, as Iris’s body withered, the girl's body also began to rapidly age and eventually, Iris turned into a wisp of smoke and dissipated.
        
        
 This story is actually a satire of a series of events that happened in reality - the college entrance examination substitution incident.
