@@ -2,33 +2,31 @@
 
 #### Artist Statement
 
-“Iris Virus” is a stop-motion animation created by Angelina Wang. 
+  “Iris Virus” is a stop-motion animation created by Angelina Wang. 
 
 
 
 
 #### ANIMATION
 
-Digital Drawing: Procreate
+    Digital Drawing: Procreate
 
-Renders: Adobe Photoshop/ Adobe Illustrator
+    Renders: Adobe Photoshop/ Adobe Illustrator
 
 
 
 
 #### VIDEO EDIT
 
-Adobe Premiere
+  Adobe Premiere
 
-Adobe Aftereffects
-
-
+  Adobe Aftereffects
 
 
 
 #### MUSIC/SONGS
 
-“K O’CLOCK”
+  “K O’CLOCK”
 Written by Zimo Ren
 Performed by ONER Kwin/ ONER Katto
 
