@@ -5,6 +5,8 @@
 “Iris Virus” is a stop-motion animation created by Angelina Wang. 
 
 
+
+
 #### ANIMATION
 
 Digital Drawing: Procreate
@@ -12,11 +14,14 @@ Digital Drawing: Procreate
 Renders: Adobe Photoshop/ Adobe Illustrator
 
 
+
+
 #### VIDEO EDIT
 
 Adobe Premiere
 
 Adobe Aftereffects
+
 
 
 
@@ -38,6 +43,8 @@ Performed by mafmadmaf
 
 “THE RAIN”
 Performed by Vsun
+
+
 
 
 
