@@ -8,18 +8,20 @@
 ## ANIMATION
 
 Digital Drawing: Procreate
+
 Renders: Adobe Photoshop/ Adobe Illustrator
 
 
 ## VIDEO EDIT
 
 Adobe Premiere
+
 Adobe Aftereffects
 
 
 
 
-MUSIC/SONGS
+## MUSIC/SONGS
 
 “K O’CLOCK”
 Written by Zimo Ren
@@ -40,7 +42,7 @@ Performed by Vsun
 
 
 
-SPECIAL THANKS
+## SPECIAL THANKS
 
 Burke Jam
 
