@@ -5,14 +5,14 @@
 “Iris Virus” is a stop-motion animation created by Angelina Wang. 
 
 
-## ANIMATION
+#### ANIMATION
 
 Digital Drawing: Procreate
 
 Renders: Adobe Photoshop/ Adobe Illustrator
 
 
-## VIDEO EDIT
+#### VIDEO EDIT
 
 Adobe Premiere
 
@@ -21,7 +21,7 @@ Adobe Aftereffects
 
 
 
-## MUSIC/SONGS
+#### MUSIC/SONGS
 
 “K O’CLOCK”
 Written by Zimo Ren
@@ -42,8 +42,8 @@ Performed by Vsun
 
 
 
-## SPECIAL THANKS
+##### SPECIAL THANKS
 
 Burke Jam
 
-![image](https://user-images.githubusercontent.com/74273683/115168982-5eb45000-a082-11eb-9842-595711afa3d7.png)
+
