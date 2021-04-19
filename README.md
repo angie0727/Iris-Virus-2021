@@ -31,20 +31,16 @@
     Performed by ONER Kwin/ ONER Katto
 
 
-
     “TIME”
     Performed by BCD Studio
-
-
+    
 
     “SONATA MT.KATHADIN, OP.405:II.LULLABY”
     Performed by Nicola Giosmin
 
 
-
     “ABYSS”
     Performed by mafmadmaf
-
 
 
     “THE RAIN”
@@ -54,9 +50,7 @@
 
 
 
-
 ##### SPECIAL THANKS
 
-    Burke Jam
-
+    Burke Jam, Adjunct Lecturer of Creative Computation at Southern Methodist University
 
