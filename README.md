@@ -5,7 +5,7 @@
 
 #### ARTIST BIO
 
-Angelina Wang is an artist working in visual and interactive art. Her work takes on multiple forms, combines aesthetics and computation. Her works mainly focus on "connections" between different matter and incorporates topics of emotions of creatures, relationship between humans and natural elements, and surreal rendering of the future. She is now a student in Creative Computation and Studio Art in Meadows School of the Arts at Southern Methodist University.
+Angelina Wang is an artist working in visual and interactive art. Her work takes on multiple forms, combines aesthetics and computation. Her works mainly focus on "connections" between different matter and incorporates topics of emotions of creatures, relationship between humans and natural elements, and surreal rendering of the future. She is a current student in Creative Computation and Studio Art in Meadows School of the Arts at Southern Methodist University.
 
 
 
