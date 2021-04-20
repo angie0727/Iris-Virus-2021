@@ -75,7 +75,6 @@ Our concerted efforts could strive for a more perfect, more aware and more just 
 
 #### VIDEO EDIT
 
-   <img width="103" alt="Screen Shot 2021-04-19 at 1 28 23 PM" src="https://user-images.githubusercontent.com/74273683/115285194-332d7600-a113-11eb-8355-01e84def8d94.png">
       Adobe Premiere
 
       Adobe Aftereffects
